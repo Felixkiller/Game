@@ -1,2 +1,2 @@
 # Game
-Tugas gamedev untuk buat sebuah game memakia godot engine 
+Tugas gamedev untuk buat sebuah game memakai godot engine 
